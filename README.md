@@ -1,6 +1,6 @@
 # AudioDreams
 
-A Basic E-Commerce Website made with Html, Css , JavaScript (with some libraries fir scroll functionalities)
+A Basic E-Commerce Website made with Html, Css , JavaScript (with some libraries for scroll functionalities)
 
 
 Live site 
